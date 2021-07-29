@@ -1,3 +1,4 @@
+![CalculatorScreenshot](https://user-images.githubusercontent.com/10955697/127483579-295cb600-27fe-49f0-bba4-a346a936ae08.jpg)
 # flutter_calculator_app
 
 A new Flutter application.
